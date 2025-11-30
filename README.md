@@ -1,16 +1,3 @@
-Here is a professional, interviewer-ready `README.md` template tailored for your specific project.
-
-I have structured it to highlight your **Full Stack skills** (Java + React) immediately. I included the "Detailed Option B" installation guide so any recruiter can run your code without guessing.
-
-### **Instructions to use this:**
-
-1.  Create a folder named `screenshots` in your main repository folder.
-2.  Put your image files inside it and name them exactly as written below (e.g., `login.png`, `dashboard.png`) or update the links in the code.
-3.  Copy the code block below and paste it into your `README.md`.
-
------
-
-````markdown
 # 📝 Secure Notes Web Application
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-2ea44f?style=for-the-badge&logo=netlify)](https://notes-app-net.netlify.app/)
