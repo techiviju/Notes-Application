@@ -132,6 +132,11 @@ cd Notes-Application
 
 -----
 
-⭐️ **If you find this project useful, please give it a star\!**
+## 🌟 Show Your Support
 
-[![GitHub stars](https://img.shields.io/github/stars/techiviju/Notes-Application?style=social)](https://github.com/techiviju/Notes-Application/stargazers)
+If you like this project or find it helpful, please give it a **Star**! ⭐️
+
+1. Click the **Star** button at the top right of this page.
+2. Fork the repository to experiment with the code.
+
+Your support motivates me to build more cool projects! 🚀
