@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-gray-50 text-gray-900; font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
+  h1 { @apply text-3xl font-semibold tracking-tight; }
+  h2 { @apply text-2xl font-semibold tracking-tight; }
+  h3 { @apply text-xl font-semibold; }
+  p { @apply leading-relaxed; }
+}
+
+@layer utilities {
+  .animate-fade-in { @apply opacity-0; animation: fadeIn 200ms ease forwards; }
+  .animate-slide-up { @apply opacity-0 translate-y-3; animation: slideUp 220ms cubic-bezier(0.22,1,0.36,1) forwards; }
+}
+
+@keyframes fadeIn { to { opacity: 1; } }
+@keyframes slideUp { to { opacity: 1; transform: translateY(0); } }
+
+@layer components {
+  .btn-primary { @apply inline-flex items-center justify-center bg-primary-600 hover:bg-primary-700 text-white font-medium py-2.5 px-4 rounded-xl shadow-sm transition-colors duration-200; }
+  .btn-secondary { @apply inline-flex items-center justify-center bg-white text-gray-900 border border-gray-200 hover:bg-gray-50 font-medium py-2.5 px-4 rounded-xl shadow-sm transition-colors duration-200; }
+  .btn-danger { @apply inline-flex items-center justify-center bg-red-600 hover:bg-red-700 text-white font-medium py-2.5 px-4 rounded-xl shadow-sm transition-colors duration-200; }
+  .icon-btn { @apply p-2 rounded-lg text-gray-500 hover:text-gray-700 hover:bg-gray-100 transition; }
+  .input-field { @apply w-full px-3.5 py-2.5 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent bg-white shadow-sm; }
+  .textarea-field { @apply w-full px-3.5 py-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent bg-white shadow-sm; }
+  .card { @apply bg-white rounded-2xl shadow-lg border border-gray-100; }
+}
