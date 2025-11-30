@@ -133,3 +133,5 @@ cd Notes-Application
 -----
 
 ⭐️ **If you find this project useful, please give it a star\!**
+
+[![GitHub stars](https://img.shields.io/github/stars/techiviju/Notes-Application?style=social)](https://github.com/techiviju/Notes-Application/stargazers)
