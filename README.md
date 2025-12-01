@@ -1,5 +1,5 @@
-# 📝 Secure Notes Web Application
-
+# Secure Notes Web Application
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here_To_View-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://notes-app-net.netlify.app/login)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-2ea44f?style=for-the-badge&logo=netlify)](https://notes-app-net.netlify.app/)
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -7,13 +7,13 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-## 🚀 About The Project
+## About The Project
 
 **Notes Web Application** is a secure, full-stack solution designed to manage personal notes efficiently. Built with a **Spring Boot** backend and a **React + Tailwind** frontend, this project demonstrates a robust implementation of RESTful APIs, secure authentication, and responsive design.
 
 Key highlights include strict **JWT Authentication**, role-based access control (Admin vs User), and a clean, modern UI.
 
-### ✨ Key Features
+### Key Features
 * **🔐 Secure Authentication:** User registration and login using JWT (JSON Web Tokens).
 * **🛡️ Data Security:** Passwords are encrypted using BCrypt before storage.
 * **📝 CRUD Operations:** Create, Read, Update, and Delete notes seamlessly.
@@ -23,7 +23,7 @@ Key highlights include strict **JWT Authentication**, role-based access control 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 | :--- | :--- |
@@ -35,7 +35,7 @@ Key highlights include strict **JWT Authentication**, role-based access control 
 
 ---
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 | Login Page | Dashboard / Home |
 | :---: | :---: |
@@ -58,7 +58,7 @@ Key highlights include strict **JWT Authentication**, role-based access control 
 | <img src="screenshots/admin.png" alt="Admin Dashboard" width="400"/> | <img src="screenshots/profile_Edit.png" alt="Edit Progile" width="400"/> |
 ---
 
-## 💻 Getting Started (Run Locally)
+## Getting Started (Run Locally)
 
 Follow these steps to set up the project locally on your machine.
 
@@ -109,7 +109,7 @@ cd Notes-Application
 
 -----
 
-## 📡 API Endpoints (Overview)
+## API Endpoints (Overview)
 
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
