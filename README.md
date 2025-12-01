@@ -1,5 +1,4 @@
 # Secure Notes Web Application
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here_To_View-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://notes-app-net.netlify.app/login)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-2ea44f?style=for-the-badge&logo=netlify)](https://notes-app-net.netlify.app/)
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
