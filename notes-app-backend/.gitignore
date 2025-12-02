@@ -49,5 +49,19 @@ bin/
 *.launch
 *.prefs
 
+.gitignore
+Dockerfile
+.gitattributes
+.dockerignore
 # --- Logs ---
 *.log
+
+DEPLOYMENT-GUIDE.md
+.dockerignore
+.gitignore
+Dockerfile/
+Procfile/
+deploy.ps1
+deploy.sh
+mvnw
+mvnw.cmd

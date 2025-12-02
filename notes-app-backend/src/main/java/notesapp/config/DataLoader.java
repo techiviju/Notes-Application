@@ -23,8 +23,8 @@ public class DataLoader {
 
     @PostConstruct
     public void createDefaultAdmin() {
-        String adminEmail = "admin01@gmail.com";
-        String adminPassword = "Zx@12345"; 
+        String adminEmail = "admin@gmail.com";
+        String adminPassword = "Rkml@25E"; 
 
         // Check if admin exists
         if (userRepo.findByEmail(adminEmail).isEmpty()) {

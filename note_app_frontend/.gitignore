@@ -15,8 +15,9 @@ node_modules/
 .env.development.local
 .env.test.local
 .env.production.local
+.env.template
 
-# Logs
+# Logs  
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -41,3 +42,7 @@ pids
 
 # OS
 Thumbs.db
+
+vercel.json
+env.template
+vercel.json

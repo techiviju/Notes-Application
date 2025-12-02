@@ -583,6 +583,7 @@ local.properties
 .env
 .DS_Store
 
+.gitignore
 # --- 3. Ignore Eclipse/IDE Junk ---
 .metadata/
 .recommenders/
