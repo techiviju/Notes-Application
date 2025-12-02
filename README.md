@@ -13,12 +13,12 @@
 Key highlights include strict **JWT Authentication**, role-based access control (Admin vs User), and a clean, modern UI.
 
 ### Key Features
-* **🔐 Secure Authentication:** User registration and login using JWT (JSON Web Tokens).
-* **🛡️ Data Security:** Passwords are encrypted using BCrypt before storage.
-* **📝 CRUD Operations:** Create, Read, Update, and Delete notes seamlessly.
-* **🎨 Responsive UI:** Built with React and Tailwind CSS for mobile and desktop.
-* **👤 User Profile:** Edit profile details and manage account settings.
-* **⚙️ Admin Panel:** Special access for administrators to view system-wide statistics (if applicable).
+* **Secure Authentication:** User registration and login using JWT (JSON Web Tokens).
+* **Data Security:** Passwords are encrypted using BCrypt before storage.
+* **CRUD Operations:** Create, Read, Update, and Delete notes seamlessly.
+* **Responsive UI:** Built with React and Tailwind CSS for mobile and desktop.
+* **User Profile:** Edit profile details and manage account settings.
+* **Admin Panel:** Special access for administrators to view system-wide statistics (if applicable).
 
 ---
 
@@ -128,6 +128,7 @@ cd Notes-Application
   * **GitHub:** [techiviju](https://www.google.com/search?q=https://github.com/techiviju)
   * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vijay-achaudhari/)
   * **Email:** vijaychaudhari5220@gmail.com
+  * **Portfolio**[Porfolio](https://vijaychportfolio.netlify.app/)
 
 -----
 
