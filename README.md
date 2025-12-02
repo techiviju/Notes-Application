@@ -128,7 +128,7 @@ cd Notes-Application
   * **GitHub:** [techiviju](https://www.google.com/search?q=https://github.com/techiviju)
   * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vijay-achaudhari/)
   * **Email:** vijaychaudhari5220@gmail.com
-  * **Portfolio**[Porfolio](https://vijaychportfolio.netlify.app/)
+  * **Portfolio** [Porfolio](https://vijaychportfolio.netlify.app/)
 
 -----
 
