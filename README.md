@@ -139,8 +139,5 @@ If you like this project or find it helpful, please give it a **Star**! ⭐️
 1. Click the **Star** button at the top right of this page.
 2. Fork the repository to experiment with the code.
 
-<<<<<<< HEAD
 Your support motivates me to build more cool projects! 🚀
 =======
-Your support motivates me to build more cool projects! 🚀
->>>>>>> 3c98a51e5b2ad7671df8ccf1ac62c87f85cc3fa7
