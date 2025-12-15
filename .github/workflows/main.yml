@@ -3,7 +3,7 @@ name: Keep Backend Alive
 on:
   schedule:
     # This runs every 14 minutes (Render sleeps after 15 mins)
-    - cron: '*/14 * * * *'
+    - cron: '*/7 * * * *'
   workflow_dispatch: # This allows you to run it manually to test
 
 jobs:
