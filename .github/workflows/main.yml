@@ -13,4 +13,4 @@ jobs:
       - name: Ping the Backend
         run: |
           echo "Pinging backend to keep it awake..."
-          curl -I "https://note-backend-kaej.onrender.com/health"
+          curl -I "https://demo-deployment-w5ga.onrender.com/health"
